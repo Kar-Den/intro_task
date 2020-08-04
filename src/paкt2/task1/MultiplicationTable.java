@@ -1,4 +1,4 @@
-package pat2.task1;
+package paкt2.task1;
 
 public class MultiplicationTable {
     public static void main(String[] args) {
